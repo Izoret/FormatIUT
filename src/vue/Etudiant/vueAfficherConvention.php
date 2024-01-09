@@ -78,6 +78,7 @@
                               readonly required>
                 </p>';
                 }?>
+                <input type="submit" value="Modifier" formaction="?action=afficherFormulaireModifierConvention&controleur=EtuMain">
 
 
             </fieldset>
